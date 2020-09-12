@@ -3,5 +3,7 @@
 #from my account on Github I am editing this file and will commit it on the GitHub site.
 #I do the same process above to get a history of edited files from my account on GitHub
 #So now I am working off of a seperate branch and the master branch wil not see this comment thanks youtube:)
-
-then I will work of the master but I must work a line down so that the comments dont conflict
+#and now I am going to create a new branch and write stuff 
+#then I will work of the master but I must work a line down so that the comments dont conflict
+#Interestingly I had to fix the merge request to resolve the issue that arrised from the space between lines being -
+#-considered a line 
